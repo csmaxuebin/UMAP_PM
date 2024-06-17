@@ -96,7 +96,7 @@ These graphs and tables summarize the effectiveness of different federated learn
 
 
 
-  ![输入图片说明](https://github.com/csmaxuebin/UMAP_PM/blob/main/code/UMAP_PM/images/fig3.png?raw=true)![输入图片说明](https://github.com/csmaxuebin/UMAP_PM/blob/main/code/UMAP_PM/images/fig4.png?raw=true)[图片上传中...(image-G1izCaoyQPxiRGMZ)]![输入图片说明](https://github.com/csmaxuebin/UMAP_PM/blob/main/code/UMAP_PM/images/fig5.png?raw=true)![输入图片说明](https://github.com/csmaxuebin/UMAP_PM/blob/main/code/UMAP_PM/images/fig6.png?raw=true)![输入图片说明](https://github.com/csmaxuebin/UMAP_PM/blob/main/code/UMAP_PM/images/fig7.png?raw=true)![输入图片说明](/imgs/2024-06-17/JZEEIcq9NYUls9KH.png)![输入图片说明](/imgs/2024-06-17/rQZK9k3yu8GuxhuF.png)
+  ![输入图片说明](https://github.com/csmaxuebin/UMAP_PM/blob/main/code/UMAP_PM/images/fig2.png?raw=true)![输入图片说明](https://github.com/csmaxuebin/UMAP_PM/blob/main/code/UMAP_PM/images/fig3.png?raw=true)[图片上传中...(image-G1izCaoyQPxiRGMZ)]![输入图片说明](https://github.com/csmaxuebin/UMAP_PM/blob/main/code/UMAP_PM/images/fig4.png?raw=true)![输入图片说明](https://github.com/csmaxuebin/UMAP_PM/blob/main/code/UMAP_PM/images/fig5.png?raw=true)![输入图片说明](https://github.com/csmaxuebin/UMAP_PM/blob/main/code/UMAP_PM/images/fig6.png?raw=true)![输入图片说明](https://github.com/csmaxuebin/UMAP_PM/blob/main/code/UMAP_PM/images/fig7.png?raw=true)![输入图片说明](https://github.com/csmaxuebin/UMAP_PM/blob/main/code/UMAP_PM/images/fig8.png?raw=true)
   
   
 
