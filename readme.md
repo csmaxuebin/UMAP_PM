@@ -5,7 +5,7 @@
 
 
 ## Abstract
-![输入图片说明](/imgs/2024-06-17/uWE3xQUIcEnC5mJD.png)
+![输入图片说明](https://github.com/csmaxuebin/UMAP_PM/blob/main/code/UMAP_PM/images/fig1.png?raw=true)
 Protecting the privacy of high-dimensional datasets while releasing representative data has been a focus of much attention in recent years. Local differential privacy (LDP) has emerged as a promising privacy standard for mining and releasing data. However, most existing research focuses on applying
 
 LDP to complex data and/or analysis tasks, leaving the fundamental problem of releasing high-dimensional data under LDP insufficiently addressed. Applying LDP to high-dimensional data poses significant challenges due to the increased risk of perturbation error and computational complexity. Motivated by this, we propose a novel LDP mechanism named UMAP_PM, which leverages manifold and projection techniques to refine complex relationships between attributes and provide appropriate LDP for each result vector. By balancing data utility and privacy, and reducing computational time, UMAP_PM maximizes the utility of data while ensuring privacy. We experimentally evaluate UMAP_PM on real data and demonstrate its superiority over existing solutions in terms of accuracy and time complexity.
@@ -48,7 +48,7 @@ LDP to complex data and/or analysis tasks, leaving the fundamental problem of re
 
 **Hyperparameters:**
 
-![输入图片说明](/imgs/2024-06-17/EsoTAusWLqGqtr2h.png)
+![输入图片说明](https://github.com/csmaxuebin/UMAP_PM/blob/main/code/UMAP_PM/images/fig9.png?raw=true)
 
 
 
@@ -96,7 +96,7 @@ These graphs and tables summarize the effectiveness of different federated learn
 
 
 
-  ![输入图片说明](/imgs/2024-06-17/2yUTGdiWC79hkk1a.png)![输入图片说明](/imgs/2024-06-17/6G7Ab1tyZwi0Blx4.png)[图片上传中...(image-G1izCaoyQPxiRGMZ)]![输入图片说明](/imgs/2024-06-17/9YLzYM0rrVxYQzGr.png)![输入图片说明](/imgs/2024-06-17/HdCuEQBEsAW54tdX.png)![输入图片说明](/imgs/2024-06-17/SAOFZ3uJ57PYljIC.png)![输入图片说明](/imgs/2024-06-17/JZEEIcq9NYUls9KH.png)![输入图片说明](/imgs/2024-06-17/rQZK9k3yu8GuxhuF.png)
+  ![输入图片说明](https://github.com/csmaxuebin/UMAP_PM/blob/main/code/UMAP_PM/images/fig3.png?raw=true)![输入图片说明](https://github.com/csmaxuebin/UMAP_PM/blob/main/code/UMAP_PM/images/fig4.png?raw=true)[图片上传中...(image-G1izCaoyQPxiRGMZ)]![输入图片说明](https://github.com/csmaxuebin/UMAP_PM/blob/main/code/UMAP_PM/images/fig5.png?raw=true)![输入图片说明](https://github.com/csmaxuebin/UMAP_PM/blob/main/code/UMAP_PM/images/fig6.png?raw=true)![输入图片说明](https://github.com/csmaxuebin/UMAP_PM/blob/main/code/UMAP_PM/images/fig7.png?raw=true)![输入图片说明](/imgs/2024-06-17/JZEEIcq9NYUls9KH.png)![输入图片说明](/imgs/2024-06-17/rQZK9k3yu8GuxhuF.png)
   
   
 
